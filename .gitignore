@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+
+__pycache__/
+
+.env
+.venv/
+env/
+venv/
+ENV/
+
+Dataset/
+
+*.log
+*.out
+*.tmp
